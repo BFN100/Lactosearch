@@ -13,6 +13,11 @@ Here are some images illustrating how it will look:
 <br>
 <br>
 <br>
+
+##
+
+Here are the mockups:
+
 ![image](https://user-images.githubusercontent.com/90284053/168876833-7f47aa6a-e86c-4bc1-ba05-a0380b9b8cca.png)
 <br>
 <br>
