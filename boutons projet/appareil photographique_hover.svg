@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="550" height="433.06" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 550 433.06">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_62);
+      }
+
+      .cls-2 {
+        fill: url(#Dégradé_sans_nom_98);
+      }
+
+      .cls-3 {
+        fill: url(#Dégradé_sans_nom_97-2);
+      }
+
+      .cls-4 {
+        fill: url(#Dégradé_sans_nom_98-2);
+      }
+
+      .cls-5 {
+        fill: url(#Dégradé_sans_nom_41);
+      }
+
+      .cls-6 {
+        fill: url(#Dégradé_sans_nom_97);
+      }
+
+      .cls-7 {
+        fill: url(#Dégradé_sans_nom_75);
+      }
+
+      .cls-8 {
+        fill: url(#Dégradé_sans_nom_41-2);
+      }
+
+      .cls-9 {
+        fill: url(#Dégradé_sans_nom_41-3);
+      }
+
+      .cls-10 {
+        fill: url(#Dégradé_sans_nom_62-2);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_41" data-name="Dégradé sans nom 41" x1="2669.98" y1="2270.95" x2="2669.98" y2="2371.65" gradientTransform="translate(-2827.78 -2174.73) scale(1.1 1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#999"/>
+      <stop offset=".35" stop-color="#666"/>
+      <stop offset=".83" stop-color="#333"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_41-2" data-name="Dégradé sans nom 41" x1="287.81" y1="0" x2="287.81" y2="143.06" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#Dégradé_sans_nom_41"/>
+    <linearGradient id="Dégradé_sans_nom_41-3" data-name="Dégradé sans nom 41" x1="275" y1="71.06" x2="275" y2="433.06" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#Dégradé_sans_nom_41"/>
+    <linearGradient id="Dégradé_sans_nom_62" data-name="Dégradé sans nom 62" x1="288" y1="24.06" x2="288" y2="59.06" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".27" stop-color="#ccc"/>
+      <stop offset=".7" stop-color="#999"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_62-2" data-name="Dégradé sans nom 62" x1="340" y1="125.06" x2="340" y2="378.06" xlink:href="#Dégradé_sans_nom_62"/>
+    <linearGradient id="Dégradé_sans_nom_75" data-name="Dégradé sans nom 75" x1="340.5" y1="135.06" x2="340.5" y2="368.06" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#666"/>
+      <stop offset=".54" stop-color="#4d4d4d"/>
+      <stop offset=".83" stop-color="#333"/>
+    </linearGradient>
+    <radialGradient id="Dégradé_sans_nom_97" data-name="Dégradé sans nom 97" cx="340.5" cy="251.56" fx="340.5" fy="251.56" r="101.5" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="gray"/>
+      <stop offset=".79" stop-color="#666"/>
+      <stop offset=".9" stop-color="#4d4d4d"/>
+    </radialGradient>
+    <radialGradient id="Dégradé_sans_nom_97-2" data-name="Dégradé sans nom 97" cx="310.88" cy="-612.57" fx="310.88" fy="-612.57" r="101.5" gradientTransform="translate(111.29 703.7) scale(.74)" xlink:href="#Dégradé_sans_nom_97"/>
+    <radialGradient id="Dégradé_sans_nom_98" data-name="Dégradé sans nom 98" cx="340.5" cy="250.56" fx="340.5" fy="250.56" r="40.5" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".27" stop-color="#ccc"/>
+      <stop offset=".7" stop-color="#999"/>
+    </radialGradient>
+    <radialGradient id="Dégradé_sans_nom_98-2" data-name="Dégradé sans nom 98" cx="-203.19" cy="-1490.53" fx="-203.19" fy="-1490.53" gradientTransform="translate(589.38 934.73) scale(.54)" xlink:href="#Dégradé_sans_nom_98"/>
+  </defs>
+  <rect class="cls-5" x="12.73" y="96.21" width="210.74" height="100.71" rx="50.35" ry="50.35" transform="translate(-28.47 264.66) rotate(-90)"/>
+  <rect class="cls-8" x="185.62" y="0" width="204.38" height="143.06" rx="62.74" ry="62.74"/>
+  <rect class="cls-9" y="71.06" width="550" height="362" rx="50.35" ry="50.35"/>
+  <rect class="cls-1" x="237" y="24.06" width="102" height="35" rx="12" ry="12"/>
+  <ellipse class="cls-10" cx="340" cy="251.56" rx="139" ry="126.5"/>
+  <ellipse class="cls-7" cx="340.5" cy="251.56" rx="125.5" ry="116.5"/>
+  <circle class="cls-6" cx="340.5" cy="251.56" r="101.5"/>
+  <circle class="cls-3" cx="341" cy="251.06" r="75"/>
+  <circle class="cls-2" cx="340.5" cy="250.56" r="40.5"/>
+  <circle class="cls-4" cx="479" cy="125.06" r="22"/>
+</svg>
