@@ -6,7 +6,10 @@ Mobile app project for researching lactose-free places and products.
 This is an ongoing project, where I created the logo, icons and buttons in order to later create this mobile application and publish it for download.
 This project is in progress, so the icons, mockups are still being improved, as soon as I finish this step I will update here.
 
-I made a prototype in Android Studio and put a video here, if you guys want to see a little how it will work.
+I made a prototype in Android Studio and put a video here, if you guys want to see a little how it will work, click there to download:
+
+![image](https://user-images.githubusercontent.com/90284053/191503662-6781d340-0bd0-4b8e-899d-6405f675992f.png)
+
 
 ##
 
